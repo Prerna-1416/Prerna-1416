@@ -27,7 +27,7 @@ I enjoy turning real-world problems into usable digital experiences — especial
   <img src="https://img.shields.io/badge/Guiding%20idea-Useful%20should%20also%20feel%20friendly-4EA8DE?style=flat-square&labelColor=172A3A" alt="Useful should also feel friendly" />
 </div>
 
-## Projects I care about
+## Projects 
 
 <div align="center">
   <sub>A small collection of things I’m learning, building, and exploring.</sub>
@@ -37,7 +37,7 @@ I enjoy turning real-world problems into usable digital experiences — especial
 <table>
   <tr>
     <td colspan="3" valign="top">
-      <h3 align="center">All repositories</h3>
+      <h3 align="center">All Projects</h3>
       <p align="center"><sub><i>A growing collection of experiments and ideas.</i></sub></p>
     </td>
   </tr>
