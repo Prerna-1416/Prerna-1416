@@ -12,8 +12,8 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Waving hand" />
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=22&duration=3200&pause=900&color=172A3A&center=true&vCenter=true&width=385&lines=Hey+there%2C+I%E2%80%99m+Prerna." alt="Hey there, I'm Prerna." />
-  <p><i>Welcome to my small, sunny corner of GitHub.</i></p>
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=700&size=22&duration=3200&pause=900&color=F9C74F&center=true&vCenter=true&width=385&lines=Hey+there%2C+I%E2%80%99m+Prerna." alt="Hey there, I'm Prerna." />
+  <p><b>L E A R N I N G &nbsp; &amp; &nbsp; M A K I N G &nbsp; M E A N I N G F U L &nbsp; T H I N G S</b></p>
 </div>
 
 ---
@@ -27,25 +27,35 @@ I enjoy turning real-world problems into usable digital experiences — especial
   <img src="https://img.shields.io/badge/Guiding%20idea-Useful%20should%20also%20feel%20friendly-4EA8DE?style=flat-square&labelColor=172A3A" alt="Useful should also feel friendly" />
 </div>
 
-## 💙 Projects I care about
+## Projects I care about
 
 <div align="center">
-
-### 💙 SPURTI
-
-[Explore the project →](https://github.com/Prerna-1416/spurti)
-
-### 💙 Suryakavach
-
-[Explore the project →](https://github.com/Prerna-1416/suryakavach)
-
-### 💙 CaneGuard AI
-
-AI-powered sugarcane disease detection and farmer assistance for Western Uttar Pradesh.
-
-[Explore the project →](https://github.com/Prerna-1416/sugarcane_AI)
+  <sub>A small collection of things I’m learning, building, and exploring.</sub>
 
 </div>
+
+<table>
+  <tr>
+    <td width="33%" align="center"><a href="https://github.com/Prerna-1416/spurti"><b>SPURTI</b><br /><sub>Explore →</sub></a></td>
+    <td width="33%" align="center"><a href="https://github.com/Prerna-1416/suryakavach"><b>Suryakavach</b><br /><sub>Explore →</sub></a></td>
+    <td width="33%" align="center"><a href="https://github.com/Prerna-1416/sugarcane_AI"><b>CaneGuard AI</b><br /><sub>Explore →</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Prerna-1416/Kisan-Saathi-Platform"><b>Kisan Saathi Platform</b><br /><sub>Explore →</sub></a></td>
+    <td align="center"><a href="https://github.com/Prerna-1416/KitchenGPT"><b>KitchenGPT</b><br /><sub>Explore →</sub></a></td>
+    <td align="center"><a href="https://github.com/Prerna-1416/Verifin_AI"><b>Verifin AI</b><br /><sub>Explore →</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Prerna-1416/FlowZint-Ai-Support-Bot-"><b>FlowZint AI Support Bot</b><br /><sub>Explore →</sub></a></td>
+    <td align="center"><a href="https://github.com/Prerna-1416/-CaneGuard-AI-Sugarcane-Disease-Detection"><b>CaneGuard Disease Detection</b><br /><sub>Explore →</sub></a></td>
+    <td align="center"><a href="https://github.com/Prerna-1416/theme-and-font-customizer"><b>Theme &amp; Font Customizer</b><br /><sub>Explore →</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Prerna-1416/-prerna-blog"><b>Prerna Blog</b><br /><sub>Explore →</sub></a></td>
+    <td align="center"><a href="https://github.com/Prerna-1416/FAQ_software"><b>FAQ Software</b><br /><sub>Explore →</sub></a></td>
+    <td align="center"><a href="https://github.com/Prerna-1416/winner"><b>Winner</b><br /><sub>Explore →</sub></a></td>
+  </tr>
+</table>
 
 ## 🧰 My toolkit
 
