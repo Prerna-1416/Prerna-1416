@@ -55,9 +55,12 @@ I enjoy turning real-world problems into usable digital experiences — especial
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Projects I care about</h3>
+      <p align="center"><img src="https://github.com/Prerna-1416.png?size=160" width="92" alt="Prerna's GitHub avatar" /></p>
+      <p align="center"><sub><i>A few ideas I’m growing with care.</i></sub></p>
       <p align="center"><a href="https://github.com/Prerna-1416/spurti"><b>SPURTI</b><br /><sub>Explore →</sub></a></p>
       <p align="center"><a href="https://github.com/Prerna-1416/suryakavach"><b>Suryakavach</b><br /><sub>Explore →</sub></a></p>
       <p align="center"><a href="https://github.com/Prerna-1416/sugarcane_AI"><b>CaneGuard AI</b><br /><sub>Explore →</sub></a></p>
+      <p align="center"><sub>🌻 &nbsp; ✦ &nbsp; 💻</sub></p>
     </td>
   </tr>
 </table>
