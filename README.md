@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/prerna-hero.svg" alt="Prerna — ideas into impact" width="100%" />
+  <img src="./profile-banner.png.png" alt="Prerna — ideas into impact" width="100%" />
 </div>
 
 <br />
@@ -72,4 +72,10 @@ AI-powered sugarcane disease detection and farmer assistance for Western Uttar P
 
 <div align="center">
   <sub>Made with curiosity, warm yellow energy, and a little blue-heart magic. 💙</sub>
+</div>
+
+## 🐍 Contribution quest
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Prerna-1416/Prerna-1416/output/github-contribution-grid-snake.svg" alt="Animated snake eating Prerna's GitHub contribution heatmap" />
 </div>
