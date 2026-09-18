@@ -1,21 +1,21 @@
 <!-- Profile README for github.com/Prerna-1416 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hello%2C%20I%E2%80%99m%20Prerna%20%F0%9F%91%8B&fontAlignY=38&fontSize=44&fontColor=172A3A&color=gradient&customColorList=7,9,12" alt="Yellow and blue waving introduction banner" />
+  <img src="https://komarev.com/ghpvc/?username=Prerna-1416&label=profile%20views&color=E0A82E&style=flat" alt="Profile views" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Prerna-1416"><img src="https://img.shields.io/badge/%F0%9F%92%9B%20building%20thoughtful%20things%2C%20one%20idea%20at%20a%20time-F9C74F?style=for-the-badge&labelColor=172A3A" alt="Building thoughtful things, one idea at a time" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&text=Prerna&fontAlignY=35&fontSize=76&fontColor=FFF9ED&desc=curious%20mind%20%C2%B7%20practical%20ideas%20%C2%B7%20kind%20technology&descAlignY=61&descAlign=50&descSize=17&descColor=172A3A&color=E0A82E&stroke=FFF9ED&strokeWidth=2" alt="Prerna — curious mind, practical ideas, kind technology" />
+  <br />
+  <sub>🐍&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; 🧠</sub>
 </div>
 
 <br />
 
 <div align="center">
-  <h3>Hi there — welcome to my little corner of GitHub.</h3>
-  <p>
-    I’m Prerna, a curious builder drawn to practical technology, thoughtful interfaces,
-    and ideas that can make everyday work a little easier.
-  </p>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Waving hand" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=22&duration=3200&pause=900&color=172A3A&center=true&vCenter=true&width=385&lines=Hey+there%2C+I%E2%80%99m+Prerna." alt="Hey there, I'm Prerna." />
+  <p><i>Welcome to my small, sunny corner of GitHub.</i></p>
 </div>
 
 ---
