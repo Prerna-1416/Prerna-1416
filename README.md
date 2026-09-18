@@ -36,26 +36,44 @@ I enjoy turning real-world problems into usable digital experiences — especial
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="3" valign="top">
       <h3 align="center">All repositories</h3>
       <p align="center"><sub><i>A growing collection of experiments and ideas.</i></sub></p>
-      <p align="center"><a href="https://github.com/Prerna-1416/spurti"><b>SPURTI</b></a> &nbsp;·&nbsp; <a href="https://github.com/Prerna-1416/suryakavach"><b>Suryakavach</b></a></p>
-      <p align="center"><a href="https://github.com/Prerna-1416/sugarcane_AI"><b>CaneGuard AI</b></a> &nbsp;·&nbsp; <a href="https://github.com/Prerna-1416/Kisan-Saathi-Platform"><b>Kisan Saathi</b></a></p>
-      <p align="center"><a href="https://github.com/Prerna-1416/KitchenGPT"><b>KitchenGPT</b></a> &nbsp;·&nbsp; <a href="https://github.com/Prerna-1416/Verifin_AI"><b>Verifin AI</b></a></p>
-      <p align="center"><a href="https://github.com/Prerna-1416/FlowZint-Ai-Support-Bot-"><b>FlowZint AI Bot</b></a> &nbsp;·&nbsp; <a href="https://github.com/Prerna-1416/-CaneGuard-AI-Sugarcane-Disease-Detection"><b>Disease Detection</b></a></p>
-      <p align="center"><a href="https://github.com/Prerna-1416/theme-and-font-customizer"><b>Theme Customizer</b></a> &nbsp;·&nbsp; <a href="https://github.com/Prerna-1416/-prerna-blog"><b>Prerna Blog</b></a></p>
-      <p align="center"><a href="https://github.com/Prerna-1416/FAQ_software"><b>FAQ Software</b></a> &nbsp;·&nbsp; <a href="https://github.com/Prerna-1416/winner"><b>Winner</b></a></p>
-      <p align="center"><sub>✦ &nbsp; 🌱 &nbsp; ✦</sub></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="33%" align="center"><a href="https://github.com/Prerna-1416/spurti"><b>SPURTI</b><br /><sub>Explore →</sub></a></td>
+    <td width="33%" align="center"><a href="https://github.com/Prerna-1416/suryakavach"><b>Suryakavach</b><br /><sub>Explore →</sub></a></td>
+    <td width="33%" align="center"><a href="https://github.com/Prerna-1416/sugarcane_AI"><b>CaneGuard AI</b><br /><sub>Explore →</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Prerna-1416/Kisan-Saathi-Platform"><b>Kisan Saathi</b><br /><sub>Explore →</sub></a></td>
+    <td align="center"><a href="https://github.com/Prerna-1416/KitchenGPT"><b>KitchenGPT</b><br /><sub>Explore →</sub></a></td>
+    <td align="center"><a href="https://github.com/Prerna-1416/Verifin_AI"><b>Verifin AI</b><br /><sub>Explore →</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Prerna-1416/FlowZint-Ai-Support-Bot-"><b>FlowZint AI Bot</b><br /><sub>Explore →</sub></a></td>
+    <td align="center"><a href="https://github.com/Prerna-1416/-CaneGuard-AI-Sugarcane-Disease-Detection"><b>Disease Detection</b><br /><sub>Explore →</sub></a></td>
+    <td align="center"><a href="https://github.com/Prerna-1416/theme-and-font-customizer"><b>Theme Customizer</b><br /><sub>Explore →</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Prerna-1416/-prerna-blog"><b>Prerna Blog</b><br /><sub>Explore →</sub></a></td>
+    <td align="center"><a href="https://github.com/Prerna-1416/FAQ_software"><b>FAQ Software</b><br /><sub>Explore →</sub></a></td>
+    <td align="center"><a href="https://github.com/Prerna-1416/winner"><b>Winner</b><br /><sub>Explore →</sub></a></td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top">
       <h3 align="center">Projects I care about</h3>
-      <p align="center"><img src="https://github.com/Prerna-1416.png?size=160" width="92" alt="Prerna's GitHub avatar" /></p>
-      <p align="center"><sub><i>A few ideas I’m growing with care.</i></sub></p>
-      <p align="center"><a href="https://github.com/Prerna-1416/spurti"><b>SPURTI</b><br /><sub>Explore →</sub></a></p>
-      <p align="center"><a href="https://github.com/Prerna-1416/suryakavach"><b>Suryakavach</b><br /><sub>Explore →</sub></a></p>
-      <p align="center"><a href="https://github.com/Prerna-1416/sugarcane_AI"><b>CaneGuard AI</b><br /><sub>Explore →</sub></a></p>
-      <p align="center"><sub>🌻 &nbsp; ✦ &nbsp; 💻</sub></p>
+      <p align="center"><img src="https://github.com/Prerna-1416.png?size=160" width="72" alt="Prerna's GitHub avatar" /> &nbsp; <sub><i>A few ideas I’m growing with care.</i></sub></p>
     </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Prerna-1416/spurti"><b>SPURTI</b><br /><sub>Explore →</sub></a></td>
+    <td align="center"><a href="https://github.com/Prerna-1416/suryakavach"><b>Suryakavach</b><br /><sub>Explore →</sub></a></td>
+    <td align="center"><a href="https://github.com/Prerna-1416/sugarcane_AI"><b>CaneGuard AI</b><br /><sub>Explore →</sub></a></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><sub>🌻 &nbsp; ✦ &nbsp; 💻</sub></td>
   </tr>
 </table>
 
