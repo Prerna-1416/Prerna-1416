@@ -5,9 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&text=Prerna&fontAlignY=35&fontSize=76&fontColor=FFF9ED&desc=curious%20mind%20%C2%B7%20practical%20ideas%20%C2%B7%20kind%20technology&descAlignY=61&descAlign=50&descSize=17&descColor=172A3A&color=E0A82E&stroke=FFF9ED&strokeWidth=2" alt="Prerna — curious mind, practical ideas, kind technology" />
-  <br />
-  <sub>🐍&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; 🧠</sub>
+  <img src="./assets/prerna-hero.svg" alt="Prerna — ideas into impact" width="100%" />
 </div>
 
 <br />
