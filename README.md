@@ -36,39 +36,42 @@ I enjoy turning real-world problems into usable digital experiences — especial
 
 <table>
   <tr>
-    <td width="33%" align="center"><a href="https://github.com/Prerna-1416/spurti"><b>SPURTI</b><br /><sub>Explore →</sub></a></td>
-    <td width="33%" align="center"><a href="https://github.com/Prerna-1416/suryakavach"><b>Suryakavach</b><br /><sub>Explore →</sub></a></td>
-    <td width="33%" align="center"><a href="https://github.com/Prerna-1416/sugarcane_AI"><b>CaneGuard AI</b><br /><sub>Explore →</sub></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Prerna-1416/Kisan-Saathi-Platform"><b>Kisan Saathi Platform</b><br /><sub>Explore →</sub></a></td>
-    <td align="center"><a href="https://github.com/Prerna-1416/KitchenGPT"><b>KitchenGPT</b><br /><sub>Explore →</sub></a></td>
-    <td align="center"><a href="https://github.com/Prerna-1416/Verifin_AI"><b>Verifin AI</b><br /><sub>Explore →</sub></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Prerna-1416/FlowZint-Ai-Support-Bot-"><b>FlowZint AI Support Bot</b><br /><sub>Explore →</sub></a></td>
-    <td align="center"><a href="https://github.com/Prerna-1416/-CaneGuard-AI-Sugarcane-Disease-Detection"><b>CaneGuard Disease Detection</b><br /><sub>Explore →</sub></a></td>
-    <td align="center"><a href="https://github.com/Prerna-1416/theme-and-font-customizer"><b>Theme &amp; Font Customizer</b><br /><sub>Explore →</sub></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Prerna-1416/-prerna-blog"><b>Prerna Blog</b><br /><sub>Explore →</sub></a></td>
-    <td align="center"><a href="https://github.com/Prerna-1416/FAQ_software"><b>FAQ Software</b><br /><sub>Explore →</sub></a></td>
-    <td align="center"><a href="https://github.com/Prerna-1416/winner"><b>Winner</b><br /><sub>Explore →</sub></a></td>
+    <td width="50%" valign="top">
+      <h3 align="center">All repositories</h3>
+      <ul>
+        <li><a href="https://github.com/Prerna-1416/spurti">SPURTI</a></li>
+        <li><a href="https://github.com/Prerna-1416/suryakavach">Suryakavach</a></li>
+        <li><a href="https://github.com/Prerna-1416/sugarcane_AI">CaneGuard AI</a></li>
+        <li><a href="https://github.com/Prerna-1416/Kisan-Saathi-Platform">Kisan Saathi Platform</a></li>
+        <li><a href="https://github.com/Prerna-1416/KitchenGPT">KitchenGPT</a></li>
+        <li><a href="https://github.com/Prerna-1416/Verifin_AI">Verifin AI</a></li>
+        <li><a href="https://github.com/Prerna-1416/FlowZint-Ai-Support-Bot-">FlowZint AI Support Bot</a></li>
+        <li><a href="https://github.com/Prerna-1416/-CaneGuard-AI-Sugarcane-Disease-Detection">CaneGuard Disease Detection</a></li>
+        <li><a href="https://github.com/Prerna-1416/theme-and-font-customizer">Theme &amp; Font Customizer</a></li>
+        <li><a href="https://github.com/Prerna-1416/-prerna-blog">Prerna Blog</a></li>
+        <li><a href="https://github.com/Prerna-1416/FAQ_software">FAQ Software</a></li>
+        <li><a href="https://github.com/Prerna-1416/winner">Winner</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Projects I care about</h3>
+      <p align="center"><a href="https://github.com/Prerna-1416/spurti"><b>SPURTI</b><br /><sub>Explore →</sub></a></p>
+      <p align="center"><a href="https://github.com/Prerna-1416/suryakavach"><b>Suryakavach</b><br /><sub>Explore →</sub></a></p>
+      <p align="center"><a href="https://github.com/Prerna-1416/sugarcane_AI"><b>CaneGuard AI</b><br /><sub>Explore →</sub></a></p>
+    </td>
   </tr>
 </table>
 
 ## 🧰 My toolkit
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,react,git,github&theme=light" alt="JavaScript, TypeScript, HTML, CSS, Python, React, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,react,git,github&theme=light" height="36" alt="JavaScript, TypeScript, HTML, CSS, Python, React, Git and GitHub" />
 </div>
 
 ## 📈 My GitHub rhythm
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prerna-1416&bg_color=fffdf5&color=172A3A&line=4EA8DE&point=F9C74F&area=true&area_color=FDE68A&hide_border=true" alt="Prerna's recent GitHub contribution activity" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Prerna-1416&background=FFFDF5&ring=F9C74F&fire=F9C74F&currStreakLabel=172A3A&sideLabels=172A3A&dates=5B6B73&border=E8E2D3&stroke=E8E2D3" alt="Prerna's GitHub contribution streak" />
+  <img src="https://ghchart.rshah.org/4EA8DE/Prerna-1416" alt="Prerna's GitHub contribution heatmap" />
 </div>
 
 ## ✉️ Let’s connect
